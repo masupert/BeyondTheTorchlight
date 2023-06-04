@@ -1,5 +1,5 @@
 
-# Dungeoneering
+# Delving
 
 - While exploring a dungeon characters will take a dungeon turn in 10 minute increments. 
 - During each dungeon movement, characters may choose to take one action each during the turn. Actions may include, but are not limited to searching a room, talking to a person, trying to hide, talking/conversing, or other similar actions. 

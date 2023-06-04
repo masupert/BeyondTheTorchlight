@@ -9,3 +9,9 @@
 | 4 | Merchant/Tradesman |
 | 5 | Wealthy |
 | 6 | Bureaucrat/Government |		
+
+
+
+
+
+Need something for the creation of a tavern name. 

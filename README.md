@@ -4,6 +4,7 @@ Beyond the Torchlight is a simple RPG system that is intended to be transferable
 
 # Design Concepts 
 - Simple rulebook and character creation.
+- Designed for a West Marches style of play. 
 - Compatible with a variety of game systems with quick conversion guidelines.
 - Develop a "magic" system that can be applied to various settings, including futuristic settings. 
 - Invested in a rollplay.
