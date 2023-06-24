@@ -26,14 +26,18 @@ Almost any RPG system can be used to play a West Marches game
 
 It might be common for a character to change their equipment back in town to suit the adventure they are about to set forth on. 
 
-### Death
+### Your​ ​sheet​ ​has​ ​no​ ​answers
+Rules and mechanics are triggered by the fiction. To do something, describe your character doing it; if you need to roll, the GM will let you know. When presented with a problem, instead of “using” skills or abilities on it, look to the environment and investigate the situation by​ ​asking​ ​the​ ​GM​ ​questions.
 
-### Fiction First
-### Growth
-Characters do not level up, but grow through their experiences in the world. New abilities and skills can be gained through the the equipment or challenges they face in the wilderness or through training and education back in town by spending their treasure. 
-### Game Master Neutrality
-### Player Choice
-### Shared Objectives
-### Players are in Control
-Games happen when the players decide to do something. The players along with the GM should coordinate on the initiation of adventures and the players should decide where they want to go and organize an adventuring party.
+### Heroism​ ​is​ ​proven
+Your characters aren’t heroes, they are adventurers setting out into the dangerous world to eke out a new life and find treasure. Rising to challenges they encounter in the world will be the events that define their life. 
 
+The defining moments of your character’s life are not in their backstory, but in the events they have yet to face. 
+
+### Combat​ ​is​ ​war,​ ​not​ ​sport
+Don’t expect encounters to be “balanced”. Approach combat with as much trepidation and preparation you might in real life. Know when to run away and cut your losses. 
+
+### Delight in the glory and loss
+The world is a harsh mistress. Untold riches and wonders can be found out in the wilderness, but untold horrors and challenges also await. Be creative with the challenges set before you and revel in their success and eventual failure. 
+
+Additional information can be found in the [Principia Apocrypha](https://i.4pcdn.org/tg/1506197697121.pdf).
