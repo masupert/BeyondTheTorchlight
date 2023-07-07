@@ -38,6 +38,6 @@ The defining moments of your character’s life are not in their backstory, but 
 Don’t expect encounters to be “balanced”. Approach combat with as much trepidation and preparation you might in real life. Know when to run away and cut your losses. 
 
 ### Delight in the glory and loss
-The world is a harsh mistress. Untold riches and wonders can be found out in the wilderness, but untold horrors and challenges also await. Be creative with the challenges set before you and revel in their success and eventual failure. 
+The world is a harsh mistress. Untold riches and wonders can be found out in the wilderness, but untold horrors and challenges also await. Be creative with the challenges set before you and revel in their success and eventual failure.
 
 Additional information can be found in the [Principia Apocrypha](https://i.4pcdn.org/tg/1506197697121.pdf).
