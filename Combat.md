@@ -1,12 +1,14 @@
 
 # Combat
-Combat is expected to occur one to two times per play session, but should not be considered as a result of most Encounters that the players will come into contact with. 
+Combat is expected to occur one to two times per play session, but should not be considered as a preferred result of most *Encounters*. 
 
 Combat is dangerous, especially in a world where access to a place to rest and heal could be days away. 
 
-Combat is meant to be a dramatic event for the group and the results of combat 
+
 
 ## Initiation
+
+
 Is anyone surprised? 
 Initiative 
 
