@@ -1,4 +1,4 @@
-# BeyondTheTorchlight
+# Beyond The Torchlight
 Beyond the Torchlight is a simple RPG system that is intended to be transferable across settings, with the intent to make a system that can be played in both fantasy, modern or futuristic settings. It will be focused around a West Marches style gameplay and will allow for tools to build a town and branching adventures from that town.
 
 
