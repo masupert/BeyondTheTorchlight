@@ -5,10 +5,10 @@ Traveling in the wilderness can be done either through a hexcrawl, however a poi
 
 ## Hexcrawl Procedures
 The overland world outside the town is divided into a map covered with hexes, and the adventuring day is divided into four *Phases*.
-- morning
-- afternoon
-- evening
-- night
+- Morning
+- Afternoon
+- Evening
+- Night
 
 Characters may travel through one Hex during each *Phase* and at most four Hexes in a day.  
 
@@ -19,7 +19,7 @@ In traditional RPG systems each hex consists of an area six (6) units across. Th
 Terrain, weather or other environmental factors may hinder or inhibit characters’ movement, induce *Fatigue*, or cause them to become *Lost*. 
 
 ### Getting Lost
-If the party is traveling to a new hex, they have a 1 in 6 chance of getting lost. After the GM describes the general information in the Hex, the party must roll a D6. On a roll of 6 the party becomes lost.  
+If the party is traveling to a new hex, they have a 1 in 6 chance of getting lost. After the GM describes the general information in the Hex, the party must roll a D6. On a roll of 1 the party becomes lost.  
 
 If the current hex contains bad weather, or rough terrain add an additional point to the D6 roll. (e.g bad weather is a 2 in 6 chance, bad weather and bad terrain is a 3 in 6 chance.)
 
@@ -79,3 +79,6 @@ THE PARTY INTERACTS WITH A LOCATION/FEATURE
 Dungeon delving, town/village adventure, lair exploration, long NPC interaction, etc…
 
 ## Pointcrawl Procedures
+When exploring inside of a hex square or when utilizing a regional map that may show multiple points of interest, a point crawl system may be used to accommodate for travel. 
+
+Imagine a point crawl similar to a mind map, where important locations are identified as points or nodes. Those locations are connected with lines, that can range from roads, paths, overland travel, etc. 
