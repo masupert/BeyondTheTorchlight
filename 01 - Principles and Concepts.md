@@ -3,7 +3,7 @@
 ## Introduction
 *Beyond the Torchlight*  is a simple rules and role-play forward West Marches style adventure game.
 
-Players act as adventurers who live in a town on the edge of the wilderness, far from civilization. They must help each other to build their town and find resources for survival. Those resources can be used for personal use, to improve themselves or to grow their own influence/business, to build and better the town, or sent back back to the civilized world to attract finished goods/services.
+Players act as adventurers who live in a town on the edge of the wilderness, far from civilization. They must help each other to build their town and find resources for survival. Those resources can be used for personal use, to improve themselves or to grow their own influence/business, to build and better the town, or send resources back to the civilized world to attract finished goods/services.
 
 Players must venture out into the wilderness to find valuable treasure or other resources for their survival. Their town rests on the edge of the known world, with the nearest known civilized town days if not weeks away. 
 
@@ -17,7 +17,7 @@ Information and resources about the world are then gathered and brought back to 
 The further you adventure from the town, the greater the risk of the unknown, but the greater the reward. 
 
 ## What makes *Beyond the Torchlight* Different?
-Almost any RPG system can be used to play a West Marches game
+
 
 
 ## Principles and Concepts
