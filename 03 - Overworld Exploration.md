@@ -92,6 +92,7 @@ The party may choose to interact with one feature that they have discovered insi
 Note: When interacting with a feature such as a dungeon the time spent exploring the dungeon can usually take place during this same phase unless your players explicitly state they will spend more than one *Phase* there. Remember that even if the party is only in a dungeon for an hour, they usually have to travel to and from that feature.
 
 ## Pointcrawl Procedures
+<<<<<<< HEAD
 A Pointcrawl can be used when players are interacting with a region inside hex, a feature such as a valley or town, or even inside a larger dungeon. 
 
 Pointcrawls are defined by landmarks or points of interest that are connected by the routes use to travel to them . 
@@ -99,5 +100,8 @@ Pointcrawls are defined by landmarks or points of interest that are connected by
 For example, when inside a larger city you might have a barracks located on the north end of the city, a the city market in the middle and the South Gate located on the south side of the city. 
 
 // When exploring inside of a hex square or when utilizing a regional map that may show multiple points of interest, a point crawl system may be used to accommodate for travel. 
+=======
+When exploring inside of a hex square or when utilizing a regional map that may show multiple points of interest, a point crawl system may be used to accommodate for travel. 
+>>>>>>> 8f515cc0be5da1c99f3a63d24a28ebf119605cbe
 
 Imagine a point crawl similar to a mind map, where important locations are identified as points or nodes. Those locations are connected with lines, that can range from roads, paths, overland travel, etc. 
