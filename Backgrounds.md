@@ -1,0 +1,32 @@
+# Backgrounds
+
+- Butcher
+- Baker
+- Stonemason
+- Weaver
+- Winemaker
+- Brewer
+- Fisherman
+- Farmer
+	- Farmhand
+	- Shearer
+	- Furrier
+- Wheelwright
+- Cobbler
+- Laborer
+	- Bricklayer
+	- Miner
+	- Lumberjack
+	- Street Sweeper
+	- Chimney Sweep
+	- Stonecutter
+- Huntsman
+- Mason
+- Cook
+- Soapmaker
+- Blacksmith
+- General Store Owner
+- Teacher
+- Healer
+- Cleric
+
