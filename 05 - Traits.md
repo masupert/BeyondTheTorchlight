@@ -47,7 +47,7 @@ Traits will be aligned on a grid and correspond with a relevant *Characteristic*
 | 9 | Grapple | Agility | Disguise | Trigger | Disguise |
 | 10 | Dodge | Grace | Lordly | Creative | Creative |
 | 11 | Lift | Flick | Lift |  | Sensitive |
-| 12 | Jump | Jump | Brace |  |  |
+| 12 | Jump | Jump | Brace |  | Subtle |
 
 ## Perception Traits
 
@@ -57,12 +57,12 @@ Traits will be aligned on a grid and correspond with a relevant *Characteristic*
 | 2 | Keen | Keen | Wise | Alert | Intuitive  |
 | 3 | Sharp | Sharp | Patient | Attentive | Astute |
 | 4 | Determined | Cautious | Analytical | Analytical | Cautious |
-| 5 | Provoking | Sensitive | Thoughtful |  |  |
-| 6 |  | Acute | |  |  |
-| 7 |  |  |  |  |  |
-| 8 |  |  |  |  |  |
-| 9 |  |  |  |  |  |
-| 10 |  |  |  |  |  |
+| 5 | Provoking | Sensitive | Thoughtful |  | Scent |
+| 6 |  | Acute | |  | Riddle |
+| 7 |  | Deft |  |  | Song |
+| 8 |  |  |  |  | Charm |
+| 9 |  |  |  |  | Deft |
+| 10 |  |  |  |  | Artful |
 | 11 |  |  |  |  |  |
 | 12 |  |  |  |  |  |
 

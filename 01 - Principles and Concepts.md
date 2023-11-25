@@ -16,18 +16,14 @@ Information and resources about the world are then gathered and brought back to 
 
 The further you adventure from the town, the greater the risk of the unknown, but the greater the reward. 
 
-## What makes *Beyond the Torchlight* Different?
-
-
-
 ## Principles and Concepts
 ### Classless
 *Beyond the Torchlight* is a classless system and player's abilities are not limited to a class. The equipment, tools and items they find while adventuring define their experience and abilities. 
 
-It might be common for a character to change their equipment back in town to suit the adventure they are about to set forth on. 
+It might be common for a character to change their equipment back in town to suit the adventure they are about to embark on. 
 
 ### Your​ ​sheet​ ​has​ ​no​ ​answers
-Rules and mechanics are triggered by the fiction. To do something, describe your character doing it; if you need to roll, the GM will let you know. When presented with a problem, instead of “using” skills or abilities on it, look to the environment and investigate the situation by​ ​asking​ ​the​ ​GM​ ​questions.
+To do something, describe your character doing it; if you need to roll, the GM will let you know. When presented with a problem, your character sheet will not provide you an instant solution. Look to the environment and investigate the situation by​ ​asking​ ​the​ ​GM​ ​questions. You will need to describe to the GM what you want to do and you may have traits or abilities that can enhance or inhibit that action. 
 
 ### Heroism​ ​is​ ​proven
 Your characters aren’t heroes, they are adventurers setting out into the dangerous world to eke out a new life and find treasure. Rising to challenges they encounter in the world will be the events that define their life. 

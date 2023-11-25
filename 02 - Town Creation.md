@@ -10,6 +10,7 @@
 | 5 | Wealthy |
 | 6 | Bureaucrat/Government |		
 
+Need to add to this list a religious institution. 
 
 Need something for the creation of a tavern name. 
 

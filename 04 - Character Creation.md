@@ -60,7 +60,7 @@ The *Characteristics* are as follows:
 | Strength | Requiring physical power |Physical damage such as bludgeoning, piercing, or slashing |
 | Dexterity | Requiring speed or reflexes | Cold, lightning, radiant, thunder |
 | Wilpower | Requiring endurance, resilience, resistance or fortitude. | Fire, poison, force, acid, stench|
-| Sanity | Requiring mental acuity or abilities to perceive one's surroundings | Psychic, necrotic, curse, hallucination, rage, |
+| Sanity | Requiring mental acuity or abilities to perceive one's surroundings | Psychic, necrotic, curse, hallucination, rage |
 | Luck | Requiring manipulation of people, to deceive, interrogate, or manipulate |Fragrance, charm, gluing, healing, seduction |
 
 The above damage types are not the only types of damage that may apply and your GM may have other types of damage. 
@@ -75,5 +75,7 @@ In addition to their base *Characteristics*, players will have additional traits
 
 ## Special Skills
 As characters become successful in their adventures they may acquire up to two weapon, potion or magic skills to increase their proficiency.  
+
+`Need to define how this occur mechanically. Is it that they gain a skill if they have a critical hit on the killing blow of a creature? `
 
 
