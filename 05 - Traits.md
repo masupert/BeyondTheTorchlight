@@ -1,10 +1,9 @@
 # Traits
 
-Characteristics and traits work together during gameplay to further allow players to define who their character is and how they may act during different situations. Traits will be used during role-play or social situations to inform players how their character may act or in some situations modify the dice roll in a positive or negative way. A character who has “Empathy” for example may find that they can use that trait to gain the trust of someone whom they are talking to. Similarly, that same trait may inform that player to want to become involved in problems that are not their own. 
+*Characteristics* and *Traits* work together during gameplay to further allow players to define who their character is and how they may act during different situations. *Traits* may be used during combat, role-play, or social situations to inform players how their character may act or in situations to modify the dice roll in a positive or negative way. A character who has “Empathy” for example may find that they can use that trait to gain the trust of someone whom they are talking to. Similarly, that same trait may inform that player to want to become involved in problems that are not their own. 
 
 ## The Grid
 Traits will be aligned on a grid and correspond with a relevant *Characteristic*. 
-
 
 |  | Str (12/8) | Dex (15/5) | Will (9/11)  | San (14/6) | Luck (8/12) |
 |:--|:--|:--|:--|:--|:--|

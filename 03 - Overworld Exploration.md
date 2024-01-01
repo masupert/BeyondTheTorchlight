@@ -51,7 +51,7 @@ The party explores the current hex revealing up to six (6) features such as ruin
 
 One feature may be revealed per attempt.
 
-Note: Hexes do not necessarily contain six features and a search could turn up no additional features. The GM may decide whether to keep the amount of features per hex hidden. 
+**Note:** Hexes do not necessarily contain six features and a search could turn up no additional features. The GM may decide whether to keep the amount of features per hex hidden. 
 
 ### Forage
 The party may choose to forage for plants, search for food or seek out fresh water if they are available on the current hex. Items may not be available depending upon the terrain and the GM’s discretion. 
@@ -73,7 +73,7 @@ Roll 1d6 to determine how many rations or units of water the party is able to re
 | Forest | +2 | +1 |
 | Coastal (Fresh) | +1 | N/A |
 | Coastal (Salt) | +1 | -1 |
-| Dessert | -1 | -2 |
+| Desert | -1 | -2 |
 | Mountainous | +1 | 0 |
 
 
