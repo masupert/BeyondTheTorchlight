@@ -48,6 +48,8 @@ Types of actions include but are not limited to:
 
 Additional actions such as a Check/Save or a *Maneuver* may occur depending upon the circumstances or a request from the GM.  
 
+===
+
 ## Action Lanes and Combat Stances
 During combat characters will position themselves in rows, representing the *Action Lane* and in a column representing the *Combat Stance* in the *Combat Grid* . 
 
@@ -61,6 +63,8 @@ Action Lanes.001.png
 ### Movement
 Characters can move to any *Combat Stance* or *Action Lane* that is on the same level as them. If an *Action Lane* is higher or lower in elevation, under dense cover or has any other feature that proves Enhanced or Impaired Attacks, then the character can only move into that Action Lane from an adjacent lane. 
 
+===
+
 ### Combat Stances
 Each column in the *Combat Grid* represents a *Combat Stance*. Combat stances have an effect that always applies to the characters in that state and have an Ability that characters may choose to use instead of taking an action. 
 
@@ -70,6 +74,8 @@ Each column in the *Combat Grid* represents a *Combat Stance*. Combat stances ha
 | Steadied | +0 |Rally | Can only be completed once per round. Player cannot attack this round. All players within one adjacent position may gain 1d4 *Breath*  |
 | Defensive | -1 to all damage received |Protect Companion | Player can attack this round. May choose to defend one adjacent companion and absorb an attack taking 1/2 the damage of the attack.  |
 | Rearguard |If not *Engaged* characters may *Retreat* from combat. |Called Shot | Takes 1 round to prepare. Must declare a target. The next ranged attack is *Enhanced* even if the target is Hiding.
+
+===
 
 ## Engaged Characters and Retreat
 ### Engaged
@@ -124,6 +130,8 @@ When a character is impaired, they will roll an additional dice for each impairm
 
 **Example** *Elsa is carrying a sword with a damage dice of 1d10. Her character is currently hiding in the shadows and on her turn will emerge from the shadows to attack. Her attack is Enhanced because she was hidden. She therefore can roll 2d10 and take the higher value.*
 
+===
+
 ## Maneuvers
 The following *Maneuvers* can be executed by a character when they achieve a *Precision Strike* or if they choose to expend one *Breath* during their turn. 
 
@@ -161,6 +169,8 @@ Enemies and players may group up together in the same combat lane in three or mo
 
 `Need to explore this concept more to determine if this makes sense as a separate mechanic or if it should just apply to all characters in a combat lane`
 
+===
+
 ## Damage
 When a character takes damage it is first applied to any *Breath* that they may have. Once a character’s *Breath* has been exhausted any remaining damage is applied to the appropriate *Characteristic*. 
 
@@ -174,6 +184,8 @@ When a character takes damage it is first applied to any *Breath* that they may 
 
 ### Characteristic Score Loss and Save Score Increase
 Whenever damage exceeds a player’s *Breath* it is applied to the appropriate *Characteristic*. A player’s DC number will decrease and their ST number will increase. The player must roll a 1d20 Saving Throw for the Characteristic that has taken damage.  If the character succeeds, they are still on their feet and ready to fight, albeit weaker from the damage. If they fail, they become *Incapacitated*.  
+
+===
 
 **Example**
 
@@ -199,6 +211,8 @@ Whenever damage exceeds a player’s *Breath* it is applied to the appropriate *
 
 *She must now make a Saving Throw (ST) against her new number. She rolls a 1d20 and rolls a nine (9) resulting in a failure. She is now Incapacitated.* 
 
+===
+
 ### Incapacitated and Death
 When a character is *Incapacitated* they fall prone to the ground and cannot take any actions. During their turn they may drag themselves one unit of measure (i.e. 5 feet, 1 meter, one combat square, etc.) in any direction. 
 
@@ -219,6 +233,8 @@ A character becomes *Stabilized* through potions, magic or by rolling a twenty (
 At the completion of the next *Phase* a character *Recovers* and is no longer *Dying*. They regain their *Breath* but do not gain back any *Characteristic* scores unless they are able to rest in a *Refuge* or in a bed. 
 
 When a character is able to rest in a *Refuge* or a bed, they  regain 1d4 points to all *Characteristics* below their max value. 
+
+===
  
 ## Combat Example
 
@@ -231,7 +247,7 @@ The bandits have more characters than can fit in the Steadied stance and will pl
 The top two Action Lanes represent a balcony inside the tavern. Attacks from the balcony to other Action Lanes are *Enhanced* and attacks from the ground floor to the Balcony are *Impaired*, due to the elevation. 
 
 
-
+===
 
 ### Round 1: Turn 1 - Player Turns
 
@@ -245,7 +261,7 @@ Thula is unable to act this round because she failed her *Initiative*.
 
 Breyer moves to the Rearward position on the Balcony and readies a Called Shot on Bandit #2. He will make an attack next round. 
 
-
+=== 
 ### Round 1: Turn 2 - Bandit Turns
 
 Combat Example -3.png
@@ -261,6 +277,8 @@ Bandit #4 stays in their Steadied Stance and attacks Elsa with their shortsword.
 Bandit #5 moves forward to an Aggressive Stance and attacks Riddic. 
 
 Bandit #6 moves to a rearward position and attacks Riddic with their shortbow.  
+
+===
 
 ### Round 3: Turn 3 - Environment and Resolve Damage
 
