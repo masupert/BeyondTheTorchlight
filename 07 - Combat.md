@@ -9,7 +9,7 @@ Combat in *Beyond the Torchlight* is abstracted to provide a cinematic feel. Com
 
 The *Combat Grid* is instead used to represent character’s combat stances along with the enemies that they may be engaged with. 
 
-Battle Grid.001.png
+/Images/Combat/Battle Grid.001.png
 
 ## Initiative 
 When combat begins players all start in the “Steadied” position and must make a Dexterity Save to determine if they act with *Initiative* in the first round of combat. If a character fails, they do not act until the next round of combat. 
@@ -58,7 +58,7 @@ A standard combat grid contains six rows or *Action Lanes*, which can accommodat
 
 *Action Lanes* can be used to represent different locations if the combat scene requires it. If a fight occurs in a tavern with a second floor balcony that is open to the main room, one or more *Action Lanes* can be designated to represent the elevated area and can designate if attacks are either *Enhanced* or *Impaired* between lanes. 
 
-Action Lanes.001.png
+/Images/Combat/Action Lanes.001.png
 
 ### Movement
 Characters can move to any *Combat Stance* or *Action Lane* that is on the same level as them. If an *Action Lane* is higher or lower in elevation, under dense cover or has any other feature that proves Enhanced or Impaired Attacks, then the character can only move into that Action Lane from an adjacent lane. 
@@ -100,7 +100,7 @@ Any character that shares an *Action Lane* with at least one enemy is *Engaged*.
  
  *Breyer is in the same Action Lane as Tahula, but he is not engaged with any enemy. If Tahula does not become Incapacitated this round, Breyer can Retreat and leave combat next round.* 
  
-Engagement.004.png 
+/Images/Combat/Combat Example -4.png
  
 ## Attacking
 Any characters in the same *Action Lane* may be attacked with a melee weapon. 
@@ -238,7 +238,7 @@ When a character is able to rest in a *Refuge* or a bed, they  regain 1d4 points
  
 ## Combat Example
 
-Combat Example -1.png
+/Images/Combat/Combat Example -1.png
  
 Riddic, Elsa, Tahula and Breyer are in a tavern and a  fight breaks out with a squad of bandits. The party rolls for *Initiative*, with everyone succeeding their Dexterity Save except Tahula.
 
@@ -251,7 +251,7 @@ The top two Action Lanes represent a balcony inside the tavern. Attacks from the
 
 ### Round 1: Turn 1 - Player Turns
 
-Combat Example -2.png
+/Images/Combat/Combat Example -2.png
 
 Riddic moves forward to an Aggressive stance, pulling out his Battle Axe and attacking Bandit #5. 
 
@@ -264,7 +264,7 @@ Breyer moves to the Rearward position on the Balcony and readies a Called Shot o
 === 
 ### Round 1: Turn 2 - Bandit Turns
 
-Combat Example -3.png
+/Images/Combat/Combat Example -3.png
 
 Bandit #1 moves forward to an Aggressive Stance and attacks Thula with their sword. 
 
@@ -282,7 +282,7 @@ Bandit #6 moves to a rearward position and attacks Riddic with their shortbow.
 
 ### Round 3: Turn 3 - Environment and Resolve Damage
 
-Combat Example -4.png
+/Images/Combat/Combat Example -4.png
 
 Patrons in the bar now begin to panic with the fight that breaks out, several tables have been flipped over and a large cask of wine was broken open, making the bottom most Action Lane flammable. 
 

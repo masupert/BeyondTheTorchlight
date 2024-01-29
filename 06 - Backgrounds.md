@@ -17,7 +17,6 @@
 	- Bricklayer
 	- Miner
 	- Lumberjack
-	- Street Sweeper
 	- Chimney Sweep
 	- Stonecutter
 - Huntsman

@@ -3,7 +3,7 @@
 ## Introduction
 *Beyond the Torchlight*  is a simple rules and role-play forward West Marches style adventure game.
 
-Players act as adventurers who live in a town on the edge of the wilderness, far from civilization. They must help each other to build their town and find resources for survival. Those resources can be used for personal use, to improve themselves or to grow their own influence/business, to build and better the town, or send resources back to the civilized world to attract finished goods/services.
+Players act as adventurers who live in a town on the edge of the wilderness, far from civilization. They must help each other to build their town and find resources for survival. Those resources can be used for personal use, to improve themselves or to grow their own influence/business, to improve the town, or send resources back to the civilized world to attract finished goods/services.
 
 Players must venture out into the wilderness to find valuable treasure or other resources for their survival. Their town rests on the edge of the known world, with the nearest known civilized town days if not weeks away. 
 
@@ -16,14 +16,20 @@ Information and resources about the world are then gathered and brought back to 
 
 The further you adventure from the town, the greater the risk of the unknown, but the greater the reward. 
 
+## The World of Beyond the Torchlight
+The World of Beyond the Torchlight is a wild and dangerous place set in the throws of age coming to an end. Centuries of decline, decay, and defeat have rendered it empty. Old growth forest, ancient mountains, and vast plains and rivers mark the land, but nowhere are signs of new growth. The land stands depopulated, wild and cold, waiting for something. Waiting for the rejuvenation of a future spring. 
+
+The glory of the races and empires of old have come and gone, leaving their remnants scattered across the land. With the darkening of the world has come the 
+
+
 ## Principles and Concepts
 ### Classless
-*Beyond the Torchlight* is a classless system and player's abilities are not limited to a class. The equipment, tools and items they find while adventuring define their experience and abilities. 
+*Beyond the Torchlight* is a classless system. The equipment, tools and items character find while adventuring define their experience and abilities. 
 
-It might be common for a character to change their equipment back in town to suit the adventure they are about to embark on. 
+It might be common for a character to change their equipment in town to suit the adventure they are about to embark on. 
 
 ### Your​ ​sheet​ ​has​ ​no​ ​answers
-To do something, describe your character doing it; if you need to roll, the GM will let you know. When presented with a problem, your character sheet will not provide you an instant solution. Look to the environment and investigate the situation by​ ​asking​ ​the​ ​GM​ ​questions. You will need to describe to the GM what you want to do and you may have traits or abilities that can enhance or inhibit that action. 
+To do something, describe your character doing it; if you need to roll, the GM will let you know. Look to the environment and investigate the situation by​ ​asking​ ​the​ ​GM​ ​questions. You will need to describe to the GM what you want to do and you may have traits or abilities that can enhance or inhibit that action. 
 
 ### Heroism​ ​is​ ​proven
 Your characters aren’t heroes, they are adventurers setting out into the dangerous world to eke out a new life and find treasure. Rising to challenges they encounter in the world will be the events that define their life. 
@@ -32,6 +38,9 @@ The defining moments of your character’s life are not in their backstory, but 
 
 ### Combat​ ​is​ ​war,​ ​not​ ​sport
 Don’t expect encounters to be “balanced”. Approach combat with as much trepidation and preparation you might in real life. Know when to run away and cut your losses. 
+
+### The world is magical, you aren’t
+Your characters will not have magical abilities, but they will find magical artifacts and items along the way that they can use. Magic is dangerous and a relic of an unknown and dying world. 
 
 ### Delight in the glory and loss
 The world is a harsh mistress. Untold riches and wonders can be found out in the wilderness, but untold horrors and challenges also await. Be creative with the challenges set before you and revel in their success and eventual failure.
