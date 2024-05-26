@@ -1,16 +1,3 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - 01.0_-_Principles_and_Concepts.md
-  - 02.0_-_Town_Creation.md
-  - 07_-_Combat
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
+theme: jekyll-theme-minimal
+title: Beyond the Torchlight
+description: Project Updates for the Beyond the Torchlight RPG System.
