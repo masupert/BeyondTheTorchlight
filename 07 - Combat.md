@@ -2,10 +2,10 @@
 # Combat
 Combat is expected to occur one to two times per play session, but should not be considered as a preferred outcome of most *Encounters*. 
 
-Combat is dangerous, especially in a world where access to a place to rest and heal could be days away. The GM should attempt to telegraph an encounter and provide players an opportunity to negotiate, avoid, sabotage or ambush their way through most encounters. However, the enemy may be as smart as the players and may also attempt to manipulate the situation or environment against the player characters. 
+Combat is dangerous in a world where access to a place to rest and heal could be days away. The GM should attempt to telegraph an encounter and provide players an opportunity to negotiate, avoid, sabotage or ambush their way through most encounters.  The enemy may be as smart as the players and may also attempt to manipulate the situation or environment against the player characters. 
 
 ## Combat Grid
-Combat in *Beyond the Torchlight* is abstracted to provide a cinematic feel. Combat scenarios can be played out either on a play-mat or on a traditional tabletop grid, however the grid is not used to represent physical locations within an environment. 
+Combat in *Beyond the Torchlight* is abstracted and scenarios can be played out either via “Theater of the Mind or on a traditional tabletop grid. The grid however, is not used to represent physical locations within an environment. 
 
 The *Combat Grid* is instead used to represent character’s combat stances along with the enemies that they may be engaged with. 
 
