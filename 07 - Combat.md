@@ -2,35 +2,35 @@
 # Combat
 Combat is expected to occur one to two times per play session, but should not be considered as a preferred outcome of most *Encounters*. 
 
-Combat is dangerous in a world where access to a place to rest and heal could be days away. The GM should attempt to telegraph an encounter and provide players an opportunity to negotiate, avoid, sabotage or ambush their way through most encounters.  The enemy may be as smart as the players and may also attempt to manipulate the situation or environment against the player characters. 
+Combat is dangerous in a world where access to a place to rest and heal could be days away. The GM should attempt to telegraph an encounter and provide players an opportunity to negotiate, avoid, sabotage, or ambush their way through encounters.  The enemy may be as smart as the players and may attempt to manipulate the situation or environment against the player characters. 
 
 ## Combat Grid
-Combat in *Beyond the Torchlight* is abstracted and scenarios can be played out either via “Theater of the Mind or on a traditional tabletop grid. The grid however, is not used to represent physical locations within an environment. 
+Combat in *Beyond the Torchlight* is abstracted and scenarios can be played out either via “Theater of the Mind” or on a traditional tabletop grid. The grid however, is not used to represent physical locations within an environment. 
 
-The *Combat Grid* is instead used to represent character’s combat stances along with the enemies that they may be engaged with. 
+The *Combat Grid* is used to represent character’s combat stances and the enemies that they may be engaged with. 
 
-/Images/Combat/Battle Grid.001.png
+Battle Grid.001.png
 
 ## Initiative 
-When combat begins players all start in the “Steadied” position and must make a Dexterity Save to determine if they act with *Initiative* in the first round of combat. If a character fails, they do not act until the next round of combat. 
+*Initiative* is determined only for the first round of combat or for the round in which a player character joins combat. When combat begins players must make a *Dexterity Save* to determine if they act with *Initiative*. If a character fails, they do not act until the next round of combat.
 
-Initiative is determined only for the first round of combat or for the round in which a player character joins combat. Players may place their characters in the lane of their choice in order oft heir Dexterity Save from highest to lowest, provided an Action Lane isn’t designated as a different location (i.e. a balcony, a cliff above, etc.)
+Players may place their characters in the lane and position of their choice in order of their *Dexterity Save* from highest to lowest, provided an *Action Lane* isn’t designated as a different location (i.e. a balcony, a cliff above, etc.)
 
-If there is not enough room to place all characters in the Steadied stance, place any remaining characters in the Aggressive Stance. 
+If there is not enough room to place all characters in the preferred *Action Lane* or position, place any remaining characters in the next nearest *Action Lane* starting with the the *Aggressive Stance* and moving backwards. 
 
 ## Rounds
-A round of combat generally consists of three turns. The player’s turn, the GM’s turn, and the environment’s turn. After the Dexterity Check for the first round, all players will act simultaneously before the GM takes their turn. 
+A round of combat consists of three turns. The player’s turn, the GM’s turn, and the environment’s turn. After the Dexterity Save for the first round, all players will act simultaneously before the GM takes their turn. 
 
 Each round, the PCs declare what they are doing before dice are rolled. Players can change the stance of their character, move them to a new *Action Lane*, or complete an action. If a character attempts something risky (such as jumping from a second story window), the GM may call for a check/save for appropriate players or NPCs.
 
 Time during combat is abstracted and all characters involved in combat act and resolve their actions simultaneously. Damage is totaled and applied at the end of each *Round*. A character who is *Incapacitated* during combat goes down at the end of the *Round*. 
 
-***Note:** If required for mechanical reasons a round of combat takes 10 seconds of time, but can be extracted to larger increments of time per the GM’s discretion.* 
+**Note:** If required for mechanical reasons a round of combat takes 10 seconds of time, but can be extracted to larger increments of time per the GM’s discretion. 
  
 ## Turns
 Combat proceeds with three *Turns* in each *Round*. The players always act during the first turn followed by the GM  and finally the environment. 
 
-Under certain combat situations, environmental or other actions may occur during the third *Turn* of combat. Lair actions, environmental effects or other actions not tied to the players or the enemies will occur after the GM’s turn and before the start of a new round. 
+Under certain combat situations, environmental or other actions may occur during the third *Turn* of combat. Lair actions, environmental effects, or other actions not tied to the players or the enemies will occur after the GM’s turn and before the start of a new round. 
 
 At the end of a *Round* all characters will make any necessary *Saving Throws* from damage received. Those who fail will be *Incapacitated*.
 
@@ -48,20 +48,22 @@ Types of actions include but are not limited to:
 
 Additional actions such as a Check/Save or a *Maneuver* may occur depending upon the circumstances or a request from the GM.  
 
+All *Actions* must be declared before any *Attacks* are made. All *attacks* against an NPC should be rolled at the same time and cannot be changed after they have been declared. 
+
 ===
 
 ## Action Lanes and Combat Stances
 During combat characters will position themselves in rows, representing the *Action Lane* and in a column representing the *Combat Stance* in the *Combat Grid* . 
 
 ### Action Lanes
-A standard combat grid contains six rows or *Action Lanes*, which can accommodate a 20x20 to 60x60 unit room in most cases. The *Action Lanes* are not meant to represent the physical locations in a space, but instead are meant to focus on the action in a particular scene. Think of the fight sequence from in the throne room in the Mines of Moria from the Fellowship of the Ring. The combat in the scene focuses from various groups of characters and at times changes throughout the scene, but the actual location of where characters are is not the most important component of the combat. 
+A standard combat grid contains six rows or *Action Lanes*, which can accommodate a 20x20 to 60x60 unit room in most cases. The *Action Lanes* are not meant to represent the physical locations in a space, but instead are meant to focus on the action in a particular scene. The combat in the scene focuses from various groups of characters and at times changes throughout the scene, but the actual location of where characters are is not the most important component of the combat. 
 
 *Action Lanes* can be used to represent different locations if the combat scene requires it. If a fight occurs in a tavern with a second floor balcony that is open to the main room, one or more *Action Lanes* can be designated to represent the elevated area and can designate if attacks are either *Enhanced* or *Impaired* between lanes. 
 
-/Images/Combat/Action Lanes.001.png
+Action Lanes.001.png
 
 ### Movement
-Characters can move to any *Combat Stance* or *Action Lane* that is on the same level as them. If an *Action Lane* is higher or lower in elevation, under dense cover or has any other feature that proves Enhanced or Impaired Attacks, then the character can only move into that Action Lane from an adjacent lane. 
+Characters can move to any *Combat Stance* or *Action Lane* that is on the same level as them. If an *Action Lane* is higher or lower in elevation, under dense cover or has any other feature that provides *Enhanced* or *Impaired Attacks*, then the character can only move into that *Action Lane* from an adjacent lane. 
 
 ===
 
@@ -72,7 +74,7 @@ Each column in the *Combat Grid* represents a *Combat Stance*. Combat stances ha
 |:--|:--|:--|:--|
 | Aggressive | +2 to all attack rolls | Intimidation | Player cannot attack this round. Nearest engaged enemy must attack while *Impaired*.  |
 | Steadied | +0 |Rally | Can only be completed once per round. Player cannot attack this round. All players within one adjacent position may gain 1d4 *Breath*  |
-| Defensive | -1 to all damage received |Protect Companion | Player can attack this round. May choose to defend one adjacent companion and absorb an attack taking 1/2 the damage of the attack.  |
+| On Guard  | -1 to all damage received |Protect Companion | Player can attack this round. May choose to defend one adjacent companion and absorb an attack taking 1/2 the damage of the attack.  |
 | Rearguard |If not *Engaged* characters may *Retreat* from combat. |Called Shot | Takes 1 round to prepare. Must declare a target. The next ranged attack is *Enhanced* even if the target is Hiding.
 
 ===
@@ -83,13 +85,13 @@ Any character that shares an *Action Lane* with at least one enemy is *Engaged*.
 
  The nearest *Engaged* enemy is the enemy in the closest stance to the character and in the same Action Lane. A character can step in front of companion into a closer stance to pull engagement upon themselves and allow their companion to *Retreat*. 
  
- Some weapons, magic items or effects may effect only Engaged characters. 
+ Some weapons, magic items or effects may affect only *Engaged* characters. 
  
- Players in the Rearguard position can attack any position, but cannot impart engagement upon a character. 
+ Players in the *Rearguard* position can attack any position, but cannot impart engagement upon a character. 
  
  
 ### Retreat 
- Characters may only *Retreat* from combat the Rearguard stance and only if they are no longer *Engaged* with an enemy. 
+ Characters may only *Retreat* from combat the *Rearguard* stance and only if they are no longer *Engaged* with an enemy. 
  
  If a character *Retreats* from combat they must wait at least one round after they have left before re-entering and must re-roll for *Initiative*.  
  
@@ -100,7 +102,7 @@ Any character that shares an *Action Lane* with at least one enemy is *Engaged*.
  
  *Breyer is in the same Action Lane as Tahula, but he is not engaged with any enemy. If Tahula does not become Incapacitated this round, Breyer can Retreat and leave combat next round.* 
  
-/Images/Combat/Combat Example -4.png
+Combat Example -4.png
  
 ## Attacking
 Any characters in the same *Action Lane* may be attacked with a melee weapon. 
@@ -125,10 +127,17 @@ When an attack is enhanced the player may add an additional damage dice for each
 
 Instead of attacking with an additional dice a player may choose to instead attack with their regular damage die and conduct a *Maneuver*. You must declare a *Maneuver* before rolling your additional damage dice. Some Maneuvers may only be attempted with melee weapons.
 
+**Example:** *Elsa is carrying a sword with a damage dice of 1d10. Her character is currently hiding in the shadows and on her turn will emerge from the shadows to attack. Her attack is Enhanced because she was hidden. She therefore can roll 2d10 and take the higher value.*
+
 ### Impaired Attacks
 When a character is impaired, they will roll an additional dice for each impairment and then take the lowest value. Similar to *Enhancements*, impairments can stack depending upon the situation. 
 
-**Example** *Elsa is carrying a sword with a damage dice of 1d10. Her character is currently hiding in the shadows and on her turn will emerge from the shadows to attack. Her attack is Enhanced because she was hidden. She therefore can roll 2d10 and take the higher value.*
+### Dual Wielding
+Characters who obtain a second weapon may choose to dual wield by holding the second weapon in their off-hand. If a character is untrained in the in the off-hand weapon, then all attacks made by the player will be *Impaired*. 
+
+Shields do not impart the *Impaired* condition when being wielded in the off-hand. 
+
+When a player becomes trained in at least one weapon they are wielding, their attacks are no longer *Impaired*. 
 
 ===
 
@@ -136,25 +145,31 @@ When a character is impaired, they will roll an additional dice for each impairm
 The following *Maneuvers* can be executed by a character when they achieve a *Precision Strike* or if they choose to expend one *Breath* during their turn. 
 
 ### Disarm
-You disarm a target forcing it to drop one item of your choice that it is holding. This may include its mouth or other appendages. 
+You disarm a target forcing it to drop one item of your choice that it is holding. This may include items in its mouth or other appendages. 
+
 ### Distract
 You distract the target allowing all attacks against that target for the next round to receive a +1 bonus. 
+
 ### Evade
 You can evade all attacks for the next round of combat, receiving damage only on a critical hit. 
+
 ### Feint (Melee)
 You feint, causing the enemy to hesitate. You may re-roll your damage die and take the higher result. 
+
 ### Goad
 You goad a single target into attacking you on the next round. The attack against you is *Enhanced* and any attack against another target in your lane is *Impaired*.
+
 ### Grapple (Melee)
 After your attack you attempt to grapple the creature with a Dex check. Upon success the enemy may not move and its attacks are *Impaired*. The character grappling must make Str save each round to continue to hold the grapple. 
+
 ### Hide/Cover
-You hide or take cover provided there is a place to do so. Your next attack after coming out from hiding is *Enhanced*. You may hide for more than one round of combat. You may not be hit with a ranged weapon while hiding and only Engaged enemies may attack you.  
+You hide or take cover provided there is a place to do so. Your next attack after coming out from hiding is *Enhanced*. You may hide for more than one round of combat. You may not be hit with a ranged weapon while hiding and only *Engaged* enemies may attack you.  
 
 Splash damage or other area of effects will still hit you for *Impaired* damage. 
-### Lunge (Melee)
-You may lunge at a target increasing your range to attack any enemy in your lane or an adjacent lane, or if your melee weapon has *Reach* you may attack up to two lanes over. 
+
 ### Parry (Melee)
 You may choose to parry a melee attack from one enemy, avoiding all damage, including a critical hit. The enemy must make a melee attack against you next round. A *Maneuver* may still be enacted against you. 
+
 ### Push (Melee)
 You may push a character into one adjacent lane or stance. The character may not move from that position next round. 
 
@@ -183,7 +198,7 @@ When a character takes damage it is first applied to any *Breath* that they may 
 | Luck | Requiring manipulation of people, to deceive, interrogate, or manipulate |Fragrance, charm, gluing, healing, seduction, addiction, withdrawal |
 
 ### Characteristic Score Loss and Save Score Increase
-Whenever damage exceeds a player’s *Breath* it is applied to the appropriate *Characteristic*. A player’s DC number will decrease and their ST number will increase. The player must roll a 1d20 Saving Throw for the Characteristic that has taken damage.  If the character succeeds, they are still on their feet and ready to fight, albeit weaker from the damage. If they fail, they become *Incapacitated*.  
+Whenever damage exceeds a player’s *Breath* it is applied to the appropriate *Characteristic*. A player’s DC number will decrease and their ST number will increase. The player must roll a 1d20 *Saving Throw* for the *Characteristic* that has taken damage.  If the character succeeds, they are still on their feet and ready to fight, albeit weaker from the damage. If they fail, they become *Incapacitated*.  
 
 ===
 
@@ -238,9 +253,9 @@ When a character is able to rest in a *Refuge* or a bed, they  regain 1d4 points
  
 ## Combat Example
 
-/Images/Combat/Combat Example -1.png
+Combat Example -1.png
  
-Riddic, Elsa, Tahula and Breyer are in a tavern and a  fight breaks out with a squad of bandits. The party rolls for *Initiative*, with everyone succeeding their Dexterity Save except Tahula.
+Riddic, Elsa, Tahula and Breyer are in a tavern and a fight breaks out with a group of bandits. The party rolls for *Initiative*, with everyone succeeding their Dexterity Save except Tahula.
 
 The bandits have more characters than can fit in the Steadied stance and will place one bandit in the Aggressive Stance. 
 
@@ -251,7 +266,7 @@ The top two Action Lanes represent a balcony inside the tavern. Attacks from the
 
 ### Round 1: Turn 1 - Player Turns
 
-/Images/Combat/Combat Example -2.png
+Combat Example -2.png
 
 Riddic moves forward to an Aggressive stance, pulling out his Battle Axe and attacking Bandit #5. 
 
@@ -264,7 +279,7 @@ Breyer moves to the Rearward position on the Balcony and readies a Called Shot o
 === 
 ### Round 1: Turn 2 - Bandit Turns
 
-/Images/Combat/Combat Example -3.png
+Combat Example -3.png
 
 Bandit #1 moves forward to an Aggressive Stance and attacks Thula with their sword. 
 
@@ -282,7 +297,7 @@ Bandit #6 moves to a rearward position and attacks Riddic with their shortbow.
 
 ### Round 3: Turn 3 - Environment and Resolve Damage
 
-/Images/Combat/Combat Example -4.png
+Combat Example -4.png
 
 Patrons in the bar now begin to panic with the fight that breaks out, several tables have been flipped over and a large cask of wine was broken open, making the bottom most Action Lane flammable. 
 
@@ -296,3 +311,9 @@ Damage is now resolved. Bandit #5 is Incapacitated  from Riddic’s axe attack a
 
 
 
+
+---
+Annotations: 0,19934 SHA-256 ce9ad0c5ec94a93411b238d6c76c87ea  
+@M.A. Supert <https\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\://blog.beyondthetorchlight.com>: 1316 1331 3715,180 6805 6817 6825 6858 6868 7016 7026 10035,2 10046 10530,444 11263,9 11303 11425 11534 11656 11832 12081 12328 12336 12446 12674 14502 14515 14525 14540  
+@M.A. Supert <https\\\\\\\\\\\\\\\://blog.beyondthetorchlight.com>: 17506,5  
+...
