@@ -114,23 +114,26 @@ Any characters in the same *Action Lane* may be attacked with a melee weapon.
 To attack the player rolls the damage dice for their weapon, adds any additional *Proficiencies* and the total is applied to the enemy combatant.  
 
 ### Precision Strike (Critical Hit)
-If a character rolls the highest number available on their damage die, they rolled a *Precision Strike*. The character may roll an additional damaging dice, adding any additional bonuses. 
+If a character rolls the highest number available on their damage die, they rolled a *Precision Strike*. The character may roll an additional damage dice, adding any *Enhancements*, *Impairments*, or additional bonuses as necessary. 
 
 A character may also choose to forgo the additional damage dice and take a *Maneuver* instead. 
 
-`I think I like this a lot of crit hits as it gives "rogue" type characters with daggers a lot of utility since they are likely to crit more often. Allows them to leverage more Maneuvers in lieu of higher damage output.  Need to test the math here. `
- 
- `Need to test the math here to see if this makes ranged attacks too powerful. Perhaps ranged only gets to roll on additional dice and melee gets max value on 2 damage dice?`
-
 ### Enhanced Attacks
-When an attack is enhanced the player may add an additional damage dice for each enhancement. They will roll all of their damage dice and take the highest single dice. Attacks can become enhanced due to various skills/abilities of the players or by environmental combat situations such as a surprise attack, attacking from an elevated position, etc. 
+When an attack is *Enhanced* the player may add 1d4 for an additional damage dice. 
 
-Instead of attacking with an additional dice a player may choose to instead attack with their regular damage die and conduct a *Maneuver*. You must declare a *Maneuver* before rolling your additional damage dice. Some Maneuvers may only be attempted with melee weapons.
+- **For each *Enhancement*, the damage dice may be increased in size (i.e. 1d4 --> 1d6 --> 1d8)** 
 
-**Example:** *Elsa is carrying a sword with a damage dice of 1d10. Her character is currently hiding in the shadows and on her turn will emerge from the shadows to attack. Her attack is Enhanced because she was hidden. She therefore can roll 2d10 and take the higher value.*
+- Attacks can become enhanced due to various skills/abilities of the players or by environmental combat situations such as a surprise attack, attacking from an elevated position, etc. 
 
 ### Impaired Attacks
-When a character is impaired, they will roll an additional dice for each impairment and then take the lowest value. Similar to *Enhancements*, impairments can stack depending upon the situation. 
+When an attack is *Impaired*, the player and additional 1d4 for an additional damage dice. 
+
+- **For each *Impairment*, the damage dice will be decreased in size (i.e. 1d4 --> 1d6 --> 1d8)** 
+
+- *Impairments* can stack depending upon the situation. 
+
+**Example:** 
+> *Elsa is carrying a sword with a damage dice of 1d10. Her character is currently hiding in the shadows and on her turn will emerge from the shadows to attack. Her attack is Enhanced because she was hidden. She therefore can roll 2d10 and take the higher value.*
 
 ### Dual Wielding
 Characters who obtain a second weapon may choose to dual wield by holding the second weapon in their off-hand. If a character is untrained in the in the off-hand weapon, then all attacks made by the player will be *Impaired*. 
@@ -237,7 +240,7 @@ If any *Characteristic* reaches zero (0) the player is dead, unable to be revive
 
 ### Dying, Stabilization, and Recovery
 #### Dying
-If a character is *Incapacitated*, but survives an encounter they fall unconscious and are *Dying* until the end of the next *Phase*. For each unit of distance traveled or each hour that passes the character must make a Saving Throw on each *Characteristic* that received damage during the encounter.  A minimum of four Saving Throws occurs per Phase, even if the party makes *Camp*.
+If a character is *Incapacitated*, but survives an encounter they fall unconscious and are *Dying* until the end of the next *Phase*. For each unit of distance traveled or each hour that passes the character must make a Saving Throw on each *Characteristic* that received damage during the encounter.  A minimum of four Saving Throws occur per Phase, even if the party makes *Camp*.
 
 Each time a character fails they must apply 1d4 damage to that *Characteristic*. If any *Characteristic* reaches zero (0) the player is dead.
 
@@ -247,7 +250,7 @@ A character becomes *Stabilized* through potions, magic or by rolling a twenty (
 #### Recovery
 At the completion of the next *Phase* a character *Recovers* and is no longer *Dying*. They regain their *Breath* but do not gain back any *Characteristic* scores unless they are able to rest in a *Refuge* or in a bed. 
 
-When a character is able to rest in a *Refuge* or a bed, they  regain 1d4 points to all *Characteristics* below their max value. 
+When a character is able to rest in a *Refuge* or a bed, they  regain 1d4 points to all *Characteristics* below their max value per day of rest. 
 
 ===
  
@@ -311,9 +314,3 @@ Damage is now resolved. Bandit #5 is Incapacitated  from Riddic’s axe attack a
 
 
 
-
----
-Annotations: 0,19934 SHA-256 ce9ad0c5ec94a93411b238d6c76c87ea  
-@M.A. Supert <https\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\://blog.beyondthetorchlight.com>: 1316 1331 3715,180 6805 6817 6825 6858 6868 7016 7026 10035,2 10046 10530,444 11263,9 11303 11425 11534 11656 11832 12081 12328 12336 12446 12674 14502 14515 14525 14540  
-@M.A. Supert <https\\\\\\\\\\\\\\\://blog.beyondthetorchlight.com>: 17506,5  
-...
