@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+- README.md
+- 01.0---Principles-and-Concepts.md
+- 02.0---Town-Creation.md
