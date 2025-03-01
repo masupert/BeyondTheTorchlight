@@ -1,5 +1,7 @@
-
 # Combat
+
+{{TOC}}
+
 Combat is expected to occur one to two times per play session, but should not be considered as a preferred outcome of most *Encounters*. 
 
 Combat is dangerous in a world where access to a place to rest and heal could be days away. The GM should attempt to telegraph an encounter and provide players an opportunity to negotiate, avoid, sabotage, or ambush their way through encounters.  The enemy may be as smart as the players and may attempt to manipulate the situation or environment against the player characters. 
@@ -12,7 +14,7 @@ The *Combat Grid* is used to represent character’s combat stances and the enem
 Battle Grid.001.png
 
 ## Initiative 
-*Initiative* is determined only for the first round of combat or for the round in which a player character joins combat. When combat begins players must make a *Dexterity Save* to determine if they act with *Initiative*. If a character fails, they do not act until the next round of combat.
+*Initiative* is determined for the first round of combat or for the round in which a player character joins combat. When combat begins players must make an *Agility Save* to determine if they act with *Initiative*. If a character fails, they do not act until the next round of combat.
 
 Players may place their characters in the lane and position of their choice in order of their *Dexterity Save* from highest to lowest, provided an *Action Lane* isn’t designated as a different location (i.e. a balcony, a cliff above, etc.)
 
@@ -75,7 +77,7 @@ Each column in the *Combat Grid* represents a *Combat Stance*. Combat stances ha
 | Aggressive | +2 to all attack rolls | Intimidation | Player cannot attack this round. Nearest engaged enemy must attack while *Impaired*.  |
 | Steadied | +0 |Rally | Can only be completed once per round. Player cannot attack this round. All players within one adjacent position may gain 1d4 *Breath*  |
 | On Guard  | -1 to all damage received |Protect Companion | Player can attack this round. May choose to defend one adjacent companion and absorb an attack taking 1/2 the damage of the attack.  |
-| Rearguard |If not *Engaged* characters may *Retreat* from combat. |Called Shot | Takes 1 round to prepare. Must declare a target. The next ranged attack is *Enhanced* even if the target is Hiding.
+| Rearguard |If not *Engaged* characters may *Retreat* from combat. | Suppression | No damage dealt, but may prevent a character from moving lanes, going into/out of hiding, or Retreating from combat.  
 
 ===
 
@@ -145,33 +147,21 @@ When a player becomes trained in at least one weapon they are wielding, their at
 ===
 
 ## Maneuvers
-The following *Maneuvers* can be executed by a character when they achieve a *Precision Strike* or if they choose to expend one *Breath* during their turn. 
+Instead of moving during their turn characters can attempt a *Maneuver*. 
 
 ### Disarm
-You disarm a target forcing it to drop one item of your choice that it is holding. This may include items in its mouth or other appendages. 
-
-### Distract
-You distract the target allowing all attacks against that target for the next round to receive a +1 bonus. 
-
-### Evade
-You can evade all attacks for the next round of combat, receiving damage only on a critical hit. 
-
-### Feint (Melee)
-You feint, causing the enemy to hesitate. You may re-roll your damage die and take the higher result. 
+Roll an Str check to disarm an *Engaged* target forcing it to drop one item that it is holding (not worn). This may include items in its mouth or other appendages. 
 
 ### Goad
 You goad a single target into attacking you on the next round. The attack against you is *Enhanced* and any attack against another target in your lane is *Impaired*.
 
 ### Grapple (Melee)
-After your attack you attempt to grapple the creature with a Dex check. Upon success the enemy may not move and its attacks are *Impaired*. The character grappling must make Str save each round to continue to hold the grapple. 
+After your attack you attempt to grapple the creature with an Agl check. Upon success the enemy may not move and its attacks are *Impaired*. The character grappling must make Str save as it’s action each round to continue to hold the grapple. 
 
 ### Hide/Cover
 You hide or take cover provided there is a place to do so. Your next attack after coming out from hiding is *Enhanced*. You may hide for more than one round of combat. You may not be hit with a ranged weapon while hiding and only *Engaged* enemies may attack you.  
 
 Splash damage or other area of effects will still hit you for *Impaired* damage. 
-
-### Parry (Melee)
-You may choose to parry a melee attack from one enemy, avoiding all damage, including a critical hit. The enemy must make a melee attack against you next round. A *Maneuver* may still be enacted against you. 
 
 ### Push (Melee)
 You may push a character into one adjacent lane or stance. The character may not move from that position next round. 
