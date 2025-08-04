@@ -1,0 +1,35 @@
+# To Do List
+## Adventure Design
+- [ ] Create a Convention Session.
+	- [ ] Model after the Crossroads of Chalden 
+- [ ] Create a Campaign Based upon my Cairn Session
+	- [ ] Centralize Location or Ruin that gives birth to the adventure
+	- [ ] 5 Cardinal Points to explore and gain a resource
+		- [ ] Each location is a small dungeon
+	- [ ] The world changes at each location due to the Wynwild
+- [ ] [21 Forms of a Dungeon](https://docs.bibisco.com/automatic-backup-system)
+
+## Design Items
+- [ ] Create Monster Design Document
+	- [ ] Review: Maze Rats
+	- [ ] Review: Monster Manual on a Business Card
+	- [ ] Monsters should have 3-Tiers of difficulty 
+		- [ ] Develop and review system to convert classic OSR monsters to this criteria. 
+- [ ] Create Hex Design Document
+- [ ] Include the Wheel of the Year into the Campaign?
+- [ ] Alchemy?
+	- [ ] What do I want to do with it. Where does it fit into the system?
+
+## Player Tools
+- [ ] Map Page for the TOwn
+- [ ] Dungeon Turn
+- [ ] Hex Map
+
+
+## Music Ideas
+- [ ] Mushroom Forest
+	- [ ] Need to Finish and Post
+- [ ] Making Camp at Night
+- [ ] A Spooky Hallway or Locaiton
+- [ ] 
+
