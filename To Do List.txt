@@ -1,7 +1,9 @@
 # To Do List
 ## Adventure Design
 - [ ] Create a Convention Session.
+	- [ ] Start in the town. Deal with fight in the local tavern. Then jump to 2 day travel and then final destination. q
 	- [ ] Model after the Crossroads of Chalden 
+	- [ ] https://www.landbetweenthelakes.com/attractions/iron-furnaces/
 - [ ] Create a Campaign Based upon my Cairn Session
 	- [ ] Centralize Location or Ruin that gives birth to the adventure
 	- [ ] 5 Cardinal Points to explore and gain a resource
@@ -21,7 +23,7 @@
 	- [ ] What do I want to do with it. Where does it fit into the system?
 
 ## Player Tools
-- [ ] Map Page for the TOwn
+- [ ] Map Page for the Town
 - [ ] Dungeon Turn
 - [ ] Hex Map
 
@@ -30,6 +32,12 @@
 - [ ] Mushroom Forest
 	- [ ] Need to Finish and Post
 - [ ] Making Camp at Night
-- [ ] A Spooky Hallway or Locaiton
-- [ ] 
+- [ ] A Spooky Hallway or Location
+
+## Reference Notes
+- https://commons.wikimedia.org/w/index.php?search=Piranesi&title=Special%3AMediaSearch&type=image
+- https://www.basicfantasy.org/forums/viewtopic.php?t=4183
+- https://www.skeletoncodemachine.com/p/five-free-fonts
+- https://www.brailleinstitute.org/freefont/
+- https://www.blogofholding.com/?p=7338
 
